@@ -1,5 +1,10 @@
-body {background: lightcoral}
+body 
+{ background:lightblue;
+{
 
-h1 {background: lightblue;}
-
-div {display: inline-block;}
+div {
+    margin:100pt
+}
+h1{
+    background:lightcoral
+}
