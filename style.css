@@ -1,14 +1,5 @@
+body {background: lightcoral}
 
-body 
-{ background:lightblue;
-{
+h1 {background: lightblue;}
 
-div {
-    height: 300px; 
-    width: 400px; 
-    background: white
-}
-h1{
-    background:lightcoral
-}
-  
+div {display: inline-block;}
