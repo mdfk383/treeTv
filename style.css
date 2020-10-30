@@ -1,11 +1,17 @@
-body 
-{ background:lightblue;
-margin: 100pt
+body { 
+    background: lightcoral
+
 }
 
-div {
-    margin:100pt
+h1 
+{padding: 10%;
+    background: lightblue;
+    text-align: center;
 }
-h1{
-    background:lightcoral
-}
+
+h2{padding:5%;
+background: lightseagreen;
+            text-align: center}
+
+td 
+{min-width:450px;}
