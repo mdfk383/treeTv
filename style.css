@@ -1,21 +1,21 @@
 body { 
-    background: lightcoral
+    background:#FF6F61
 
 }
 
 h1 
-{padding: 10%;
-    margin: 5% ;
-    background: lightblue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+{   padding: 20pt%;
+    margin: 10pt;
+    background:#92A8D1;
+    font-family: sans-serif;
     text-align: center;
     font-size: 48pt;
 }
 
 h2{padding:5%;
 background: lightseagreen;
-margin: 30%;        
-font-family: cursive;
+margin: 15%;        
+font-family: sans-serif;
 text-align: center} 
 
 body{ 
