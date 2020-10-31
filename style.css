@@ -5,13 +5,21 @@ body {
 
 h1 
 {padding: 10%;
+    margin: 5% ;
     background: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    font-size: 48pt;
 }
 
 h2{padding:5%;
 background: lightseagreen;
-            text-align: center}
+margin: 30%;        
+font-family: cursive;
+text-align: center} 
 
-td 
-{min-width:450px;}
+body{ 
+font-family: monospace;
+font-size: 30pt;
+text-align: center;
+}
