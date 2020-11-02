@@ -1,28 +1,39 @@
-body { 
-    background:#FF6F61
-
+body { background-color: thistle;
+   
 }
 
 h1 
-{   padding: 20pt%;
-    margin: 10pt;
-    background:#92A8D1;
-    font-family: sans-serif;
-    text-align: center;
+{   
+    color: turquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
     font-size: 48pt;
+    background-color:wheat ; 
+    margin: 0%; 
+    margin-right: 121pt;
+} 
+
+.intro{ 
+    
+    color: turquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+    background-color: wheat;
+    margin-right: 121pt;
 }
 
-h2{padding:5%;
-background: lightseagreen;
-margin: 15%;        
-font-family: sans-serif;
-text-align: center} 
-
-body{ 
-font-family: monospace;
-font-size: 30pt;
-text-align: center;
-margin: 30%;
-
+.photog {
+    
 }
 
+p.morestuff{
+    color: turquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20pt; 
+    color: turquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+    float: inline-end; 
+    text-align: right;
+    
+}
