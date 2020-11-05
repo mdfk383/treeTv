@@ -1,7 +1,10 @@
 body { background-color:black;
    
 }
-
+@media screen and (max-width: 800px){
+    body{
+      background: green;
+     }
 h1 
 {   
     color: turquoise;
@@ -61,8 +64,3 @@ ul.photolist {
 
 #vending {padding-bottom: 3%;
 }
-@media screen and (max-width: 800px){
-    body{
-      background: green;
-     }
-  }
