@@ -1,66 +1,28 @@
-body { background-color:black;
-   
+body {
+    max-width: 1100px; 
+    background-color: black;
 }
-@media screen and (max-width: 800px){
-    body{
-      background: green;
-     }
-h1 
-{   
-    color: turquoise;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    background-color:#fefbd8 ; 
-    border:5px solid #d5f4e6;
-    text-shadow: -2px 2px #618685;
-    margin: 0%; 
-    margin-left: -12%;
-    margin-right: 175pt; 
-    
+.studio 
+{
+    margin-left: 10px;
+}
+
+p.introtext { 
+    font-size: 20pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    color: bisque;
+    position: absolute;
+    top: 270px;
+    right: 90px;
 } 
 
-.title {font-size: 60pt;}
-
-.subtitle {font-size: 38pt;}
-
-
-.intro{ 
-    
-    color: turquoise;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
-    background-color: wheat;
-    margin-right: 121pt;
-}
-
-p.morestuff{
-    color: turquoise;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt; 
-    text-align: right;
+#piclink {
+    font-size: 15pt;
+    color:white; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
-    background-color: wheat; 
     position: absolute;
-    top: 800px;
-    right: 10px;
-
-}
-
-ul.photolist {
-    padding-left: 5%;
-    border: 2pt;
-}
-
-#waves {
-   padding-bottom:3%;
-}
-
-#highway {
-    padding-bottom: 3%;
-}
-#vegas {
-    padding-bottom: 3%;
-}
-
-#vending {padding-bottom: 3%;
+    top: 600px;
+    right: 300px;
 }
